@@ -4,7 +4,7 @@
 Yazmış olduğum bu aracın amacı FlipHTML5 kullanılarak oluşturulan kütüphanelerde yer alan kitapların slayt halinde bulunan görsellerini PDF olarak kaydetmenizi sağlamaktır.
 
 Kullanım için ilk olarak bu tür sitelerde İncele kısmı maalesef aktif değildir. Bu yüzden inceleme kısmını açmak için [link1](https://chromewebstore.google.com/detail/absolute-enable-right-cli/jdocbkpgdakpekjlhemmfcncgdjeiika?hl=en-US&utm_source=ext_sidebar) Asagidaki Gorselde Yer alan eklentiyi:
-![alttext](https://imgur.com/a/3xWITEf) linkteki eklentiyi indiriyoruz. Daha sonrasında inen eklentiyi sayfa üzerinde [enable copy] ve [Absolute Mod] seçeneklerini aktif ediyoruz:
+![Gorsel1](https://imgur.com/a/3xWITEf) linkteki eklentiyi indiriyoruz. Daha sonrasında inen eklentiyi sayfa üzerinde [enable copy] ve [Absolute Mod] seçeneklerini aktif ediyoruz:
 ![Gorsel2](https://imgur.com/a/5Yt1Qfx)
 
 Bu seçenekler aktif olduğunda istediğimiz kitabın sayfasını incele bölümünden:
