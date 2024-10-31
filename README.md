@@ -4,15 +4,15 @@
 Yazmış olduğum bu aracın amacı FlipHTML5 kullanılarak oluşturulan kütüphanelerde yer alan kitapların slayt halinde bulunan görsellerini PDF olarak kaydetmenizi sağlamaktır.
 
 Kullanım için ilk olarak bu tür sitelerde İncele kısmı maalesef aktif değildir. Bu yüzden inceleme kısmını açmak için [link1](https://chromewebstore.google.com/detail/absolute-enable-right-cli/jdocbkpgdakpekjlhemmfcncgdjeiika?hl=en-US&utm_source=ext_sidebar) Asagidaki Gorselde Yer alan eklentiyi:
-[Gorsel1](https://imgur.com/a/3xWITEf) linkteki eklentiyi indiriyoruz. Daha sonrasında inen eklentiyi sayfa üzerinde [enable copy] ve [Absolute Mod] seçeneklerini aktif ediyoruz:
-[Gorsel2](https://imgur.com/a/5Yt1Qfx)
+[!Gorsel1](https://imgur.com/a/3xWITEf) linkteki eklentiyi indiriyoruz. Daha sonrasında inen eklentiyi sayfa üzerinde [enable copy] ve [Absolute Mod] seçeneklerini aktif ediyoruz:
+[!Gorsel2](https://imgur.com/a/5Yt1Qfx)
 
 Bu seçenekler aktif olduğunda istediğimiz kitabın sayfasını incele bölümünden:
-[Gorsel3](https://imgur.com/BGfHjVW)
+[!Gorsel3](https://imgur.com/BGfHjVW)
 Iilk olarak yukarıda yer alan görseldeki, kırmızı ok ile gösterilen element seçici seçmekteyiz. Sonrasında siyah ok ile gösterilen indirmek istediğimiz sayfanın üstüne getirmeliyiz.
-[Gorsel4](https://imgur.com/WIylMSx)
+[!Gorsel4](https://imgur.com/WIylMSx)
 İstediğimiz sayfanın görsel linkine ulaşmaktayız, bundan sonrası için:
-[Gorsel5](https://imgur.com/Sd2xjWS)  tam link adresini kopyalıyoruz.
+[!Gorsel5](https://imgur.com/Sd2xjWS)  tam link adresini kopyalıyoruz.
 
 Gerekli linki aldıktan sonra ve indirmek istediğiniz kitap sayfasının son sayfa sayısını main.py dosyasının içinde yer alan end değişkenine atama yapıyoruz.
 
