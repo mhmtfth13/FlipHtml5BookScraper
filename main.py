@@ -43,7 +43,7 @@ with ThreadPoolExecutor(max_workers=10) as executor:
 # Convert images to PDF
 if images:
     # Define the output PDF path
-    pdf_path = r"C:\Users\Administrator\Desktop\hacking\BookPDF\output.pdf"
+    pdf_path = r"C:\Users\!!DOSYAYOLUNUZ!!\output.pdf"
     
     # Create directory if it doesn't exist
     os.makedirs(os.path.dirname(pdf_path), exist_ok=True)
